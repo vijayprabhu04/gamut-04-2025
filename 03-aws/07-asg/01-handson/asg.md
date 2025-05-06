@@ -1,0 +1,11 @@
+# Step 1: 
+- Create a Launch Template
+- Go to the AWS Management Console → Search EC2.
+- In the EC2 Dashboard, click Launch Templates (left panel).
+- Click Create launch template.
+- Enter a Template name (e.g., MyAutoScalingTemplate).
+- Select an Amazon Machine Image (AMI) (e.g., Amazon Linux 2).
+- Choose an Instance type (e.g., t2.micro).
+- Configure a Key pair for SSH access.
+- Under Network settings, select an existing security group or create a new one.
+- Click Create launch template.
